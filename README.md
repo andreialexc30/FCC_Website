@@ -1,0 +1,1 @@
+This is the 5/5 and final project regarding freeCodeCamp's Responsive Web Design certification. The page mimicks a web dev's portfolio website. I intended to use Bootstrap at first for some of the user stories but I changed my mind and finished it using plain HTML and CSS.

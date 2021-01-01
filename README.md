@@ -1,2 +1,8 @@
-This is the 5/5 and final project regarding freeCodeCamp's Responsive Web Design certification. The page mimicks a web dev's portfolio website. I intended to use Bootstrap at first for some of the user stories but I changed my mind and finished it using plain HTML and CSS.
-EDIT: FCC's testing CDN doesn't recognize media queries implemented inside my own IDE, albeit them working. Live version now available at https://andreialexc30.github.io/FCC_Website/
+<h1>About the project</h1>
+This is the final project regarding freeCodeCamp's Responsive Web Design certification.
+<h2>Description</h2>
+The page mimicks a web developer's personal portfolio website. It displays some of the projects that I have worked on previously in the curriculum.
+<h2>Information</h2>
+This page has been made using plain HTML and CSS.
+<h3>Live version</h3>
+Available at: https://andreialexc30.github.io/FCC_Website/
